@@ -1,2 +1,3 @@
 # odin-recipes
-<!-- To do after finish the project -->
+Este pequeno projeto feito em HTML com algumas receitas.
+A ideia deste projeto é demonstrar conhecimento no uso de git, github e HTML.
